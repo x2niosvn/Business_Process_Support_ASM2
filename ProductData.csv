@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,Price
+1,Personal Widget,Beauty,66
+2,Furniture Implement,Home,30.95
+3,Nutrition Whatchamacallit,Health,92.95
+4,Game Item,Entertainment,108.99
+5,Car Supplies,Automotive,57.99
+6,Nutrition Item,Health,62.95
+7,Mens Device,Clothing,86.99
+8,Party Gear,Entertainment,114.99
+9,Vitamin Whatchamacallit,Health,42.99
+10,Biking Instrument,Activity,
+11,Makeup Rig,,84.95
+,Phone Component,Electronics,180.95
+13,,Pets,167
+14,Phone Gear,Electronics,37.95
+15,Kids Accessory,Clothing,162
+16,Aquarium Gear,Pets,116
+17,Phone Whatchamacallit,Electronics,24
+18,Womens Attachment,Clothing,86.99
+19,Bedding Doodad,Home,60.99
+20,Movie Thingamajig,Entertainment,93.95
+21,Car Contraption,Automotive,77.99
+22,Kitchen Implement,Home,149
+23,Nutrition Machine,Health,-49.99
+24,Cat Apparatus,Pets,174
+25,Gardening Equipment,Home,182.99
+26,Engine Gadget,Automotive,115
+27,Nutrition Thingamajig,Health,59.99
+28,Engine Implement,%Automotive,177.99
+29,Furniture Instrument,Home,68.99
+30,Dining Item,Home,26.99
+31,Makeup Doodad,Beauty,184.99
+32,Kitchen #Tool,Home,149.99
+33,Kids Contraption,Clothing,121.95
+34,Outdoors Tool,Activity,193.95
+35,Car Tool,Automotive,164.99
+36,Car Gear,Automotive,63.99
+37,Makeup Attachment,Beauty,185.95
+38,Toy Supplies,Entertainment,102.95
+39,Camera D&oodad,Electronics,33.95
+40,Camera Tool,Electronics,50
+41,Bath Accessory,Beauty,128
+42,Bedding Equipment,Home,186.95
+43,Cat Apparatus,Pets,143.95
+44,Party Whatchamacallit,Entertainment,99.99&
+45,Storage Tool,Home,160.99
+46,Swimming Apparatus,Activity,100.99
+47,Swimming Doodad,Activity,126
+48,Phone Item,Electronics,32.99
+49,Gardening Gizmo,Home,25.95
+50,Baby Mechanism,Clothing,115
+51,Dining Mechanism,Home,58.95
+52,Baby Instrument,Clothing,146.95
+53,,Health,140.95
+54,Vitamin Gizmo,Health,165.95
+55,Vitamin Implement,Health,165.99
+56,Camping Equipment,Activity,58.99
+57,Camera Implement,Electronics,197.99
+58,Cooking Kit,Home,192
+59,Storage Paraphernalia,Home,99.99
+60,Party Whatchamacallit,Entertainment,155.95
+61,Storage Component,Home,184.99
+62,Womens Apparatus,Clothing,78.99
+63,Nutrition Apparatus,Health,97.95
+64,Truck Equipment,Automotive,138.99
+65,Bedding Accessory,Home,84
+66,Medicine Component,Health,133
+67,Swimming Supplies,Activity,142.95
+68,Hair Care Rig,Beauty,41.99
+69,%Medicine Whatchamacallit,Health,95.95
+70,Bedding Gear,Home,192.99
+71,First Aid Paraphernalia,Health,156.95
+72,Skin Care Contraption,Beauty,127.99
+73,Computer Thingamajig,Electronics,164
+74,Camera Machine,Electronics,80.95
+75,Outdoors Item,Activity,46.99
+76,Medicine Equipment,Health,152.95
+77,Biking Supplies,Activity,52
+78,Vitamin Device,Health,198.95
+79,Makeup Supplies,Beauty,184.95
+80,Furniture Machine,Home,197
+81,Kitchen Machine,Home,120
+82,Camping Equipment,Activity,155
+83,Medicine Machine,Health,196
+84,Hair Care Item,Beauty,24.95
+85,Hair Care Item,Beauty,24.95
+86,Home Improvement Paraphernalia,Home,55.99
+87,Skin Care Accessory,Beauty,133
+88,Dog Doodad,Pets,107
+89,Cooking Widget,Home,68.99
+90,Womens Gadget,Clothing,51.95
+91,Furniture Accessory,Home,119
+92,%%%%,Activity,59
+93,Sports Machine,Activity,165.95
+94,Sports Mechanism,Activity,53.95
+95,Gardening Component,Home,116.99
+96,Dog Item,Pets,151
+97,Book Thingamajig,Entertainment,139.95
+98,Nutrition Apparatus,Health,129
+99,Jewelry Tool,Clothing,90.99
+100,Beach Instrument,Activity,127.99
